@@ -18,3 +18,13 @@ Page navigation with buttons
 Creating Visuals
 
 Adding slicers and filters to allow users to explore data interactively
+
+
+# SQL techniques Learnt
+Importing data from CSV files into SQL Server using tools like SQL Server Management Studio (SSMS)
+
+Using SQL queries to clean and filter data
+
+Using GROUP BY with SUM(), COUNT(), AVG(), etc., to summarize data, such as calculating total sales or counting the number of orders.
+
+Joins and Subqueries
