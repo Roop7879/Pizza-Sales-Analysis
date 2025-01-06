@@ -1,30 +1,57 @@
-# Pizza-Sales-Analysis
-•	Established a Power BI dashboard by gathering sales data from a Kaggle CSV file and importing it into SQL Server Management Studio (SSMS) for data transformation and analysis.
+# **Sales Data Analysis and Visualization Project**
 
-•	Optimized SQL queries to derive key insights such as total revenue, average order value, top-selling pizza categories, daily trend for orders, etc.
+### **Overview**
+This project demonstrates an end-to-end data analytics workflow, starting from raw sales data collection to interactive visualization. The goal was to gather key insights into sales trends, product performance, and customer preferences by using **SQL Server** for data transformation and **Power BI** for dashboard creation.
 
-•	Designed an interactive, multi-view dashboard in Power BI by connecting to SQL Server, providing actionable insights on sales trends, customer preferences, and product performance, enabling data-driven decision-making for business improvements.
+---
 
-•	Documented the entire process by writing SQL queries and insights in a structured Word report for clear presentation and reference.
+### **Project Workflow**
+1. **Data Collection**  
+   - Downloaded sales data CSV file from Kaggle.
+   
+2. **Data Import and Transformation**  
+   - Imported the CSV file into **SQL Server Management Studio (SSMS)**.  
+   - Wrote optimized SQL queries to clean, transform, and extract meaningful insights, such as:
+     - Total revenue generated.
+     - Average order value.
+     - Top-selling pizza categories.
+     - Daily order trends.
+
+3. **Data Visualization**  
+   - Connected Power BI to SQL Server.  
+   - Designed an **interactive, multi-view dashboard** to visualize key metrics and trends.  
+   - The dashboard includes views for:
+     - **Revenue trends over time**  
+     - **Top-selling products**  
+     - **Daily and monthly order analysis**
+
+---
+
+### **Key Insights**
+- **Total Revenue**: Generated significant revenue over the analyzed period.
+- **Top-Selling Categories**: Pizza categories accounted for the highest sales.  
+- **Daily Trend**: Orders peaked during weekends and evenings.  
+- **Customer Preferences**: Customers preferred large-sized pizzas and combo offers.
+
+---
+
+### **Project Files**
+- **SQL Scripts**: All SQL queries used for data transformation and analysis.  
+- **Power BI Dashboard**: Interactive dashboard with multi-view insights (`sales-dashboard.pbix`).  
+- **Documentation**: Detailed report with SQL queries, insights, and screenshots (`documentation.docx`).
+
+---
+
+### **Technologies Used**
+- **Excel**
+- **SQL Server Management Studio (SSMS)**  
+- **Power BI**  
+- **Kaggle** (for data source)
 
 
-# PowerBI techniques Learnt
-• Creating calculated columns
+---
 
-• Creating measure using DAX language
-
-• Page navigation with buttons
-
-• Creating Visuals
-
-• Adding slicers and filters to allow users to explore data interactively
-
-
-# SQL techniques Learnt
-• Importing data from CSV files into SQL Server using tools like SQL Server Management Studio (SSMS)
-
-• Using SQL queries to clean and filter data
-
-• Using GROUP BY with SUM(), COUNT(), AVG(), etc., to summarize data, such as calculating total sales or counting the number of orders.
-
-• Joins and Subqueries
+### **Contact**
+For any questions or feedback, feel free to contact me:  
+📧 **Email**: [parihar1roop@gmail.com](mailto:parihar1roop@gmail.com)  
+📱 **Phone**: 8982502848
