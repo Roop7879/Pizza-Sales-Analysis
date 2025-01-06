@@ -37,8 +37,8 @@ This project demonstrates an end-to-end data analytics workflow, starting from r
 
 ### **Project Files**
 - **SQL Scripts**: All SQL queries used for data transformation and analysis.  
-- **Power BI Dashboard**: Interactive dashboard with multi-view insights (`sales-dashboard.pbix`).  
-- **Documentation**: Detailed report with SQL queries, insights, and screenshots (`documentation.docx`).
+- **Power BI Dashboard**: Interactive dashboard with multi-view insights (`pizza_sales.pbix`).  
+- **Documentation**: Detailed report with SQL queries, insights, and screenshots (`PIZZA SALES SQL QUERIES.docx`).
 
 ---
 
