@@ -1,4 +1,4 @@
-# **Sales Data Analysis and Visualization Project**
+# **Pizza-Sales Data Analysis and Visualization Project**
 
 ### **Overview**
 This project demonstrates an end-to-end data analytics workflow, starting from raw sales data collection to interactive visualization. The goal was to gather key insights into sales trends, product performance, and customer preferences by using **SQL Server** for data transformation and **Power BI** for dashboard creation.
