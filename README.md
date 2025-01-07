@@ -51,7 +51,7 @@ This project demonstrates an end-to-end data analytics workflow, starting from r
 ---
 
 ### **Dashboard Demo**
-[Click here to watch the demo](https://github.com/Roop7879/Pizza-Sales-Analysis/blob/main/Screen%20Recording%202025-01-07%20133238.mp4)
+[Click here to watch the demo](https://github.com/Roop7879/Pizza-Sales-Analysis/blob/main/dashboard-demo.mp4)
 
 
 ### **Contact**
