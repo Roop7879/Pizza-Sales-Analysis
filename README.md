@@ -48,8 +48,11 @@ This project demonstrates an end-to-end data analytics workflow, starting from r
 - **Power BI**  
 - **Kaggle** (for data source)
 
-
 ---
+
+### **Dashboard Demo**
+[Click here to watch the demo](https://github.com/Roop7879/Pizza-Sales-Analysis/blob/main/Screen%20Recording%202025-01-07%20133238.mp4)
+
 
 ### **Contact**
 For any questions or feedback, feel free to contact me:  
